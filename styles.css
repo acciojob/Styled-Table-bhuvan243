@@ -1,1 +1,12 @@
 /* your code */
+#table-main {
+	
+	text-align: left;
+	border: 1px solid black;
+	border-radius: 5px;
+	
+}
+#head {
+	background-color: blue;
+	color: white;
+}
